@@ -34,7 +34,6 @@ public class PlayerWinsDiagnol1Test {
     }
 
 
-
     @Test
     public void isInFavorOfPlayerOTest() {
         // Given
@@ -72,5 +71,6 @@ public class PlayerWinsDiagnol1Test {
         Assert.assertEquals(expected, actual);
 
     }
+
 }
 

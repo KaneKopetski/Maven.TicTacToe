@@ -72,5 +72,7 @@ public class PlayerWinsDiagnol2Test {
         Assert.assertEquals(expected, actual);
 
     }
+
 }
+
 
